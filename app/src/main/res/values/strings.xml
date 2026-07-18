@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">儿童识字乐园</string>
+    <string name="welcome_title">欢迎来到识字乐园！</string>
+    <string name="start_learning">开始学习</string>
+    <string name="play_game">趣味游戏</string>
+    <string name="my_progress">我的进度</string>
+    <string name="character_title">学习汉字</string>
+    <string name="listen_pronunciation">听发音</string>
+    <string name="try_reading">我来读</string>
+    <string name="next_character">下一个</string>
+    <string name="previous_character">上一个</string>
+    <string name="great_job">太棒了！</string>
+    <string name="try_again">再试一次</string>
+    <string name="total_stars">获得星星：%d</string>
+    <string name="characters_learned">学会汉字：%d</string>
+    <string name="game_title">找汉字游戏</string>
+    <string name="game_instruction">找出正确的汉字</string>
+    <string name="correct">正确！</string>
+    <string name="incorrect">加油！再试试</string>
+    <string name="permission_required">需要录音权限才能使用语音识别功能</string>
+    <string name="permission_denied">权限被拒绝</string>
+</resources>
